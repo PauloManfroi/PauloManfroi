@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi 👋
+I'm Paulo Henrique Manfroi
+Computer Science student at Universidade Tecnológica Federeal do Paraná - BR
+## 
 
 <!--
 **PauloManfroi/PauloManfroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
