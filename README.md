@@ -1,5 +1,5 @@
 ## Hi 👋
-I'm Paulo Henrique Manfroi
+I'm Paulo Henrique Manfroi\n
 Computer Science student at Universidade Tecnológica Federeal do Paraná - BR
 ## 
 
